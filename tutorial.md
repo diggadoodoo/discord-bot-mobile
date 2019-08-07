@@ -65,3 +65,8 @@ Now this is where Puffin gets involved, Puffin will help us a lot. Open your gli
 
 ### Step 7, finished!
 Well done, you have successfully made a Discord bot on your mobile device!
+
+
+---
+
+### I wrote this very late at night, if I am not clear enough, contact me via my [discord server](https://discord.gg/J3pSg6R) and I will explain better to you.
