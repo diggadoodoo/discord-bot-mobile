@@ -33,7 +33,7 @@ Before you add your bot's token, **make sure your project is private**. Make a `
 ```
 
 ### Step 5, adding the bots code
-Insert this code to get your bot running, for now this will only have a ping command, if you'd like a more exciting bot replace your server.js code with the code from [my open source bot](https://github.com/fayercx2931/necrot-moderation)
+Insert this code to get your bot running, for now this will only have a ping command, if you'd like a more exciting bot replace your server.js code with the code from [my open source bot](https://github.com/fifthsonofole/discord.js-moderation-bot)
 
 ```js
 const Discord = require("discord.js");
