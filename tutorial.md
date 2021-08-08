@@ -2,7 +2,7 @@
 
 It may seem hard but it isn't, follow the steps slowly and we'll get there 
 
-> I used to use this method when I did not have a PC avaliable, it isn't the best, I'd suggest only you use it if you're *that desperate*, if you want to make a Discord bot the easy way **get a PC**!!
+> I used to use this method when I did not have a PC available, it isn't the best, I'd suggest only you use it if you're *that desperate*, if you want to make a Discord bot the easy way **get a PC**!!
 
 ---
 # WARNING: This works on android, I am not sure if the same will apply on IOS
